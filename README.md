@@ -10,4 +10,4 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VanadioAndre&show_icons=true&theme=transparent)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VanadioAndre&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VanadioAndre&langs_count=8)
