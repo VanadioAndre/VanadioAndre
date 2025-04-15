@@ -8,4 +8,4 @@
 
 🚀 Buscando colaborar com projetos open-source!
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VanadioAndre&show_icons=true&theme=transparent)
