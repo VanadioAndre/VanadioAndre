@@ -8,8 +8,6 @@
 
 🚀 Buscando colaborar com projetos open-source!
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VanadioAndre&show_icons=true&theme=transparent)
-
 ### 🔗 Tecnologias que eu uso no meu dia a dia:
 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
