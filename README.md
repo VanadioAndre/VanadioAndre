@@ -2,7 +2,7 @@
 
 💻 Estudante de programação e entusiasta de tecnologia.
 
-🔐 Interesses: redes, cybersecurity, full-stack development.
+🔐 Interesses: redes, cybersecurity, full-stack development e Machine Learning.
 
 📚 Atualmente estudando Laravel, redes e segurança com cursos da Cisco.
 
