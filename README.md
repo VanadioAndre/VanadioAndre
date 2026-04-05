@@ -1,25 +1,46 @@
-# 👋 Olá, sou o Emanuel!
+---
 
-💻 Estudante de programação e entusiasta de tecnologia.
+# 👋 Olá, eu sou o Emanuel André
 
-🔐 Interesses: redes, cybersecurity, full-stack development e Machine Learning.
+💻 **Software Developer** apaixonado por tecnologia, sistemas distribuídos e engenharia de software.
 
-📚 Atualmente estudando Laravel, redes e segurança com cursos da Cisco.
+Atualmente trabalho no desenvolvimento de aplicações modernas, com foco em **back-end robusto, arquiteturas escaláveis e práticas de DevOps/GitOps**.
 
-🚀 Buscando colaborar com projetos open-source!
+---
 
-### 🔗 Tecnologias que eu uso no meu dia a dia:
+## 🚀 Sobre mim
 
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+* 🔧 Desenvolvedor com experiência em **Java + Spring Boot**
+* 🐳 Trabalho com **Docker** e ambientes containerizados
+* ⚙️ Experiência com **DevOps & GitOps** (CI/CD, automação e deploy)
+* 🌐 Interesse em **redes, cybersecurity e sistemas distribuídos**
+* 📚 Sempre aprendendo e evoluindo (Laravel, cloud, arquitetura de software)
 
+---
 
+## 🛠️ Tecnologias & Ferramentas
 
+### 💡 Back-end & Desenvolvimento
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=java\&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge\&logo=spring-boot\&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge\&logo=laravel\&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
+
+### 🌐 Front-end & Mobile
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js\&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+
+### ⚙️ DevOps & Infraestrutura
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![GitOps](https://img.shields.io/badge/GitOps-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-0A0A0A?style=for-the-badge\&logo=githubactions\&logoColor=white)
+
+### 🔐 Outros interesses
+
+* Redes de computadores
+* Cybersecurity
+* Machine Learning
+* Sistemas distribuídos
